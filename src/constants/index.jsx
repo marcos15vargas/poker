@@ -14,7 +14,7 @@ export const cards = [
     text: "Recolectamos mas de 500 archivos de la mejores estrategias de todo internet, incluyendo videos, tablas preflop, pdfs de aprendizaje para CASH y TORNEOS, estrategias para limpers, ciega chica versus ciega grande, y mucho mas. ",
     color: "azul",
     image: "https://imgs.search.brave.com/8FacPbfOcKvlVv99IRboWxO4yn78AIs4_qYT4FD7ZJc/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bWF0aDRhbGwuZXMv/d3AtY29udGVudC91/cGxvYWRzLzIwMjAv/MDEvUG9rZXItcmFu/Z29zLWhhYml0dWFs/ZXMtMTAyNHg1NTgu/anBn",
-    alt: "imagen de estrategias de poker en casa"
+    alt: "imagen de estrategias de poker"
   },
   {
     title: "Recomendamos muchas escuelas.",

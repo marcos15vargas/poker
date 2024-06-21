@@ -1,11 +1,11 @@
 import { Instagram, Linkedin, Mail, MapPin, Phone, UserRound } from "lucide-react";
 
 export const menu = [
-  { label: "Inicio", href: "#" },
-  { label: "Nosotros", href: "#" },
-  { label: "Galeria", href: "#" },
-  { label: "Blog", href: "#" },
-  { label: "Contacto", href: "#" },
+  { label: "Inicio", href: "/" },
+  { label: "Nosotros", href: "/nosotros" },
+  { label: "Galeria", href: "/galeria" },
+  { label: "Blog", href: "/blog" },
+  { label: "Contacto", href: "/contacto" },
 ];
 
 export const cards = [

@@ -1,6 +1,6 @@
 {
   "name": "pagina-poker-react",
-  "homepage": "https://poker-react.vercel.app/"
+  "homepage": "https://poker-react.vercel.app/",
   "private": true,
   "version": "0.0.0",
   "type": "module",

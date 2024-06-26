@@ -1,3 +1,5 @@
+import image from "../../../assets/info.webp"
+
 export const Info = () => {
   return (
     <section className="w-full lg:h-[100vh] mt-16 lg:mt-0">
@@ -15,7 +17,7 @@ export const Info = () => {
           </button>
         </div>
         <div className="w-full lg:w-1/2 p-12">
-          <img src="../public/info.webp" alt="info-imagen"></img>
+          <img src={image} alt="info-imagen"></img>
         </div>
       </div>
     </section>
